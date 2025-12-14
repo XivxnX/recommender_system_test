@@ -1,5 +1,5 @@
 # 📊 Evaluación de un Sistema de Recomendaciones mediante Prueba A/B
-Este proyecto analiza los resultados de una prueba A/B diseñada para evaluar el impacto de un sistema de recomendaciones mejorado sobre el comportamiento de los usuarios en un entorno de comercio electrónico. El análisis se centra en métricas clave del funnel de conversión con el objetivo de determinar si la nueva versión del sistema genera mejoras significativas en el desempeño del negocio durante los primeros 14 días posteriores a la inscripción del usuario.
+En este proyecto analicé los resultados de una prueba A/B diseñada para evaluar el impacto de un sistema de recomendaciones mejorado sobre el comportamiento de los usuarios en un entorno de comercio electrónico. Adicionalmente, a través de un dashboard interactivo desarrollado en Power BI, el análisis se centra en métricas clave del funnel de conversión, con el objetivo de evaluar si la nueva versión del sistema genera mejoras significativas en el desempeño del negocio durante los primeros 14 días posteriores a la inscripción del usuario.
 
 ## 🎯 Objetivos
 
