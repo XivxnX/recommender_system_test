@@ -11,6 +11,9 @@ Este proyecto analiza los resultados de una prueba A/B diseñada para evaluar el
 * Validar estadísticamente los resultados mediante pruebas de hipótesis.
 * Generar conclusiones accionables para la toma de decisiones estratégicas.
 
+## 📈 Análisis de funnel por grupos de prueba
+![alt text](dashboard.png)
+
 ## 📈 Hallazgos Clave
 
 * Durante la preparación de los datos fue necesario eliminar registros de usuarios sin grupo asignado, así como usuarios duplicados presentes en ambos grupos.
